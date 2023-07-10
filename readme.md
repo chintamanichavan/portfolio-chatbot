@@ -77,11 +77,3 @@ You can customize the chatbot's behavior, styling, and integration with external
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-```
-
-Feel free to customize the README.md file further based on your specific project requirements, including additional sections or information that you would like to include.
-
-Let me know if you have any more questions or need further assistance!
