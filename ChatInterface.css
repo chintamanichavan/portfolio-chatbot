@@ -1,0 +1,47 @@
+/* ChatInterface.css */
+
+.chat-history {
+  height: 200px;
+  overflow-y: auto;
+  margin-bottom: 10px;
+}
+
+.chat-history div {
+  margin-bottom: 5px;
+}
+
+.chat-timestamp {
+  color: #777;
+  font-size: 12px;
+}
+
+.chat-actions {
+  margin-top: 10px;
+  text-align: right;
+}
+
+.chat-actions button {
+  border: none;
+  background-color: transparent;
+  color: #007bff;
+  cursor: pointer;
+}
+
+.chat-input input {
+  width: 200px;
+  height: 30px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 5px;
+  margin-right: 10px;
+}
+
+.chat-input button {
+  height: 30px;
+  border: none;
+  background-color: #007bff;
+  color: #fff;
+  padding: 0 10px;
+  border-radius: 4px;
+  cursor: pointer;
+}
